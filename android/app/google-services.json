@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618354868044",
+    "project_id": "msmotors-3e44f",
+    "storage_bucket": "msmotors-3e44f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618354868044:android:4630fc911a6a3a99b159e9",
+        "android_client_info": {
+          "package_name": "com.example.ms_motors_app_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFWyM5bLoQJEzzcYmgg-bkOZmm1TvmXWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

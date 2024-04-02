@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDCF1nVvo9j8TNDe2SM5xl4YxA0f0sRJjo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>618354868044</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.msMotorsAppFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>msmotors-3e44f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>msmotors-3e44f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:618354868044:ios:ca2445ff14f9d273b159e9</string>
+</dict>
+</plist>
